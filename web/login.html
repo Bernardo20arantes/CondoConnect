@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Entrar na Web Desktop | CondoConnect</title>
+  <link rel="stylesheet" href="../shared/css/tokens.css">
+  <link rel="stylesheet" href="../shared/css/base.css">
+  <link rel="stylesheet" href="../web/css/web.css">
+  <link rel="stylesheet" href="../web/css/components.css">
+  <script type="module" src="../web/js/layout.js"></script>
+</head>
+<body>
+<div data-cabecalho></div>
+<main class="web-login">
+  <section class="card login-card" aria-labelledby="titulo-login">
+    <div>
+      <h1 id="titulo-login">Entrar</h1>
+      <p class="secondary">Acesse a área da portaria ou da administração.</p>
+    </div>
+    <form class="login-form" aria-describedby="login-demo">
+      <div>
+        <label class="field-label" for="email">E-mail</label>
+        <input class="field" id="email" type="email" placeholder="Informe seu e-mail" disabled>
+      </div>
+      <div>
+        <label class="field-label" for="senha">Senha</label>
+        <input class="field" id="senha" type="password" placeholder="Informe sua senha" disabled>
+      </div>
+      <button class="button login-submit" type="button" disabled>Entrar</button>
+      <p class="login-note" id="login-demo">Campos ilustrativos. Use um perfil de demonstração abaixo.</p>
+    </form>
+    <div class="feedback demo-access">
+      <h2>Acesso de demonstração</h2>
+      <p>Escolha um perfil para abrir o dashboard.</p>
+      <div class="actions" data-acessos hidden>
+        <button class="button button-outline" type="button" data-perfil="porteiro">Portaria</button>
+        <button class="button button-outline" type="button" data-perfil="administrador">Administração</button>
+      </div>
+    </div>
+    <noscript><p>Ative o JavaScript para entrar na demonstração.</p></noscript>
+    <p class="feedback" data-feedback role="status"></p>
+  </section>
+</main>
+</body>
+</html>

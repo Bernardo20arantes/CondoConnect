@@ -1,0 +1,142 @@
+[
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\web\\login.html",
+    "Hash": "FD6F3B0EC8AB5303103E4559AEECBBA82B766030BC9DE92C17EDF1EA18C5C5D5"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\web\\administracao\\comunicados.html",
+    "Hash": "BEC9EDE3C00E6599D9270DED539D8072D7225112C1D2A4B698FA8954C7842448"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\web\\administracao\\dashboard.html",
+    "Hash": "BEC9EDE3C00E6599D9270DED539D8072D7225112C1D2A4B698FA8954C7842448"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\web\\administracao\\moradores.html",
+    "Hash": "BEC9EDE3C00E6599D9270DED539D8072D7225112C1D2A4B698FA8954C7842448"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\web\\administracao\\reservas.html",
+    "Hash": "BEC9EDE3C00E6599D9270DED539D8072D7225112C1D2A4B698FA8954C7842448"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\web\\administracao\\solicitacoes.html",
+    "Hash": "BEC9EDE3C00E6599D9270DED539D8072D7225112C1D2A4B698FA8954C7842448"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\web\\assets\\fonts\\inter-license.txt",
+    "Hash": "5B9321A4298CFEB6B34354164A1C3AFC3DB114569984C502B9B35D988FD58C57"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\web\\assets\\fonts\\inter-variable.ttf",
+    "Hash": "29160A80FF49DDCAB2C97711247E08B1FAB27A484A329CE8B813D820DC559031"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\web\\css\\components.css",
+    "Hash": "4355AA43420A0B5FB61BEC91E426783B36126AE1989D3156CA2E0EA4E31EB157"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\web\\css\\web.css",
+    "Hash": "BDAA5AD9B8B82CADED97A5192400D0C2AD25F1E003FA3003AAA9035B1CC6449F"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\web\\js\\administracao.js",
+    "Hash": "0CC6C69E595AD137FAF343E942C28459423D759217F511C6751352C5CCD16A8B"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\web\\js\\comunicados.js",
+    "Hash": "CCBAFE97D3B4A301ABA0999EB0B31ED9EEB7B4A47591BF2972930760623C4345"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\web\\js\\contexto.js",
+    "Hash": "6471C028B610141BFC23B367AC18BC503BD201604F6AA8B28E6E4AC137E04CE5"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\web\\js\\layout.js",
+    "Hash": "47552C74FE7FDE5754CDEFAF6A31B58D116AF7DB7311F2E079DDA3B3D0DFF002"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\web\\js\\moradores.js",
+    "Hash": "A6DA5807E624875F1C4DBA8701D221CEBF36DB0C5F4CF877E9FF2BD6D08B13C7"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\web\\js\\portaria.js",
+    "Hash": "AC5BAB95ED45819A72F9D3D485B1ED9353E5365D3E47CAEDEB5EA689B53FEDB0"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\web\\js\\reservas.js",
+    "Hash": "03DF42786D9F8083F300AEB848199F59B28991256BBF531DA00650E55271FC58"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\web\\js\\ui.js",
+    "Hash": "3DA9C627B22DD1A45946DB615286D0BD9C22DCBD3B8D5F3F0C3F0FEDBF64CFB1"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\web\\portaria\\comunicados.html",
+    "Hash": "2654DCC7E83384DDD56D12CDECFB612D0F85368BCEE37AAA1B974CFFF802F325"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\web\\portaria\\dashboard.html",
+    "Hash": "2654DCC7E83384DDD56D12CDECFB612D0F85368BCEE37AAA1B974CFFF802F325"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\web\\portaria\\encomendas.html",
+    "Hash": "2654DCC7E83384DDD56D12CDECFB612D0F85368BCEE37AAA1B974CFFF802F325"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\web\\portaria\\moradores.html",
+    "Hash": "2654DCC7E83384DDD56D12CDECFB612D0F85368BCEE37AAA1B974CFFF802F325"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\shared\\assets\\icons\\.gitkeep",
+    "Hash": "7EB70257593DA06F682A3DDDA54A9D260D4FC514F645237F5CA74B08F8DA61A6"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\shared\\assets\\images\\.gitkeep",
+    "Hash": "7EB70257593DA06F682A3DDDA54A9D260D4FC514F645237F5CA74B08F8DA61A6"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\shared\\css\\base.css",
+    "Hash": "E50707149D7A0395847B4368F333019958E27580AB33D7A05A7DCA95B9BC699B"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\shared\\css\\tokens.css",
+    "Hash": "F6487A1FB21165DA18939DFDD398A47223FF10153A9093083D46624003696E21"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\shared\\js\\session.js",
+    "Hash": "00231179FD9DF8318474A59160C46D6B55DC4A029D1E8CEE4E8213EC3765C79C"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\shared\\js\\storage.js",
+    "Hash": "6CF107D157C24451C27080E18884BA269A9973E582B93C6682AF6AF6A881A29B"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\shared\\js\\utils.js",
+    "Hash": "BBDA29F3EB4D55EBDDB6ECE274822E6CD32B96C9698FD53481410934FFB50585"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\shared\\js\\data\\demo-data.js",
+    "Hash": "AEDE0C7EF7D80ECA8FD6B1F4886E26D7E1EF7BCBDE2140A3A96C94CD09F36BFA"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\shared\\js\\services\\comunicados.js",
+    "Hash": "440EFEFCB8C6F367B831C4451D2B15EEF902E09BA0E41C4F8F8EFD1312993CCB"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\shared\\js\\services\\encomendas.js",
+    "Hash": "760A28573C9733945E2B34283994DD9EA8B2A90A590AD3F387AFAB77695B7068"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\shared\\js\\services\\mensagens.js",
+    "Hash": "5741502AEF17ECFAE2B70C9AD76C460D2F4E771736E759920E3E4DE1164F34EA"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\shared\\js\\services\\reservas.js",
+    "Hash": "5CB3CA3DEF68AA90E5F3DDF425F6EF1E54474DFF04D7E1FFC2AE67B368B3D433"
+  },
+  {
+    "Path": "C:\\Users\\berna\\Downloads\\CondoConnect\\shared\\js\\services\\solicitacoes.js",
+    "Hash": "FBC646F5B74C7FEB065A2DDF50F58C403DAEC0EAF768D8B47AF41D1D15A4D427"
+  }
+]

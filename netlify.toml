@@ -1,0 +1,6 @@
+[build]
+  command = "node preparar-publicacao.mjs"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "24"
